@@ -158,5 +158,5 @@ switch(decision){
         console.log("soy el personaje Lucas")
         break
     default: 
-        alert("Error, no has ingresado un dato valido")
+        alert("Holaaaaa")
 }
