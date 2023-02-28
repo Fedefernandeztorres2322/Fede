@@ -158,5 +158,5 @@ switch(decision){
         console.log("soy el personaje Lucas")
         break
     default: 
-        alert("Holaaaaa")
+        alert("chauuu")
 }
